@@ -1,5 +1,8 @@
-# Multiple linear regression and adjusted R-squared
+# Multiple linear regression.
+### Let predict the price of an apartment based on size and view 
 
+
+---------------------------------------
 #### Import the relevant libraries
 
 
